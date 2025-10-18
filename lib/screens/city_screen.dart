@@ -200,15 +200,6 @@ class _CityScreenState extends State<CityScreen> {
                                       ),
                                     ),
                                   ),
-                                  /*TextButton(
-                                    onPressed: () => _getWeatherAndNavigate(
-                                        weatherModel.getLocationWeather),
-                                    child: Icon(
-                                      Icons.near_me,
-                                      color: Colors.grey,
-                                      size: 50.0,
-                                    ),
-                                  ),*/
                                 ],
                               ),
                             ),
