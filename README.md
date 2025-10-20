@@ -12,8 +12,6 @@ Clima App is a modern **weather application** built with **Flutter**. It provide
 - 🔄 Smooth transitions and loading screens
 - ⚡ Lightweight and fast
 
-![Example Screenshot](assets/images/screenshot.png)  <!-- Replace with your screenshot -->
-
 ---
 
 ## Installation
